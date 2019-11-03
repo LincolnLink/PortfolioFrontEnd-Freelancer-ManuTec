@@ -10,4 +10,4 @@ Projeto de um site institucional para uma empresa que presta serviços para indu
 
 Link do site: 
 
-http://manutectub.com.br/#/home
+https://lincolnlink.github.io/PortfolioFrontEnd-Freelancer-ManuTec/#/home
